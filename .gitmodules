@@ -1,3 +1,48 @@
 [submodule "c"]
 	path = c
 	url = git@github.com:pubnub/c.git
+[submodule "java"]
+	path = java
+	url = git@github.com:pubnub/java.git
+[submodule "arduino"]
+	path = arduino
+	url = git@github.com:pubnub/arduino
+[submodule "objective-c"]
+	path = objective-c
+	url = git@github.com:pubnub/objective-c
+[submodule "coldfusion"]
+	path = coldfusion
+	url = git@github.com:bennadel/PubNub.cfc
+[submodule "c-sharp"]
+	path = c-sharp
+	url = git@github.com:pubnub/c-sharp
+[submodule "erlang"]
+	path = erlang
+	url = git@github.com:tsloughter/epubnub
+[submodule "flash"]
+	path = flash
+	url = git@github.com:pubnub/flash
+[submodule "javascript"]
+	path = javascript
+	url = git@github.com:pubnub/javascript
+[submodule "lua"]
+	path = lua
+	url = git@github.com:pubnub/lua
+[submodule "opa"]
+	path = opa
+	url = git@github.com:tsloughter/opa_pubnub_plugin
+[submodule "php"]
+	path = php
+	url = git@github.com:pubnub/php
+[submodule "python"]
+	path = python
+	url = git@github.com:pubnub/python
+[submodule "ruby"]
+	path = ruby
+	url = git@github.com:pubnub/ruby
+[submodule "go"]
+	path = go
+	url = git@github.com:pubnub/go.git
+[submodule "haskell"]
+	path = haskell
+	url = git@github.com:pubnub/haskell.git
