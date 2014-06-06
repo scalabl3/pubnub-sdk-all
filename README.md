@@ -2,5 +2,5 @@
 
 * clone this repo
 * ```git submodule init```
-* Periodically: ```git submodule update``` or ```git submodule update --rebase```
+* Periodically: ```git submodule foreach git pull```
 
